@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AdivinhaNumero</string>
+    <string name="adivinha_numero">Qual é o numero que estou a pensar</string>
+    <string name="bota_adivinha">Adivinha</string>
+    <string name="FeedBack">TextView</string>
+    <string name="Tentativas">TextView</string>
+    <string name="numero">numero</string>
+    <string name="insira_numero">Introduza um numero entre 1 e 10</string>
+    <string name="numero_invalido">O numero deve estar entre 1 e 10</string>
+    <string name="jogo">\"Jogo: \"</string>
+    <string name="tentativas">\"Tentativas: \"</string>
+    <string name="acertou">Parabens, acertou</string>
+    <string name="numero_maior">O numero que estou a pensar é maior</string>
+    <string name="numero_menor">O numero que pensou é menor</string>
 </resources>
