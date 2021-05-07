@@ -68,7 +68,8 @@
             android:id="@+id/editTextNumero"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/numero" />
+            android:hint="@string/numero"
+            android:inputType="number" />
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
